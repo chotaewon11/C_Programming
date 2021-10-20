@@ -1,0 +1,6 @@
+﻿  main.c
+C:\Cprogramming\C_Programming\RSP_Project\main.c(336,6): warning C4033: 'MCB'은(는) 값을 반환해야 합니다.
+C:\Cprogramming\C_Programming\RSP_Project\main.c(376,6): warning C4033: 'MCB'은(는) 값을 반환해야 합니다.
+C:\Cprogramming\C_Programming\RSP_Project\main.c(416,6): warning C4033: 'MCB'은(는) 값을 반환해야 합니다.
+C:\Cprogramming\C_Programming\RSP_Project\main.c(432): warning C4715: 'MCB': 모든 제어 경로에서 값을 반환하지는 않습니다.
+  RSP_Project.vcxproj -> C:\Cprogramming\C_Programming\RSP_Project\Debug\RSP_Project.exe
