@@ -1,0 +1,6 @@
+﻿  main.c
+C:\Cprogramming\C_Programming\9_2_Example\main.c(18,9): warning C4013: 'gets'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
+C:\Cprogramming\C_Programming\9_2_Example\main.c(20,29): warning C4047: '!=': 'int'의 간접 참조 수준이 'void *'과(와) 다릅니다.
+C:\Cprogramming\C_Programming\9_2_Example\main.c(28,29): warning C4047: '!=': 'int'의 간접 참조 수준이 'void *'과(와) 다릅니다.
+C:\Cprogramming\C_Programming\9_2_Example\main.c(30,33): warning C4047: '!=': 'int'의 간접 참조 수준이 'void *'과(와) 다릅니다.
+  9_2_Example.vcxproj -> C:\Cprogramming\C_Programming\9_2_Example\Debug\9_2_Example.exe
